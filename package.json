@@ -1,6 +1,6 @@
 {
   "name": "@dloizides/tenant-theme-web",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Product-agnostic RN-web tenant-theme client for the dloizides.com portfolio: the ETag-conditional theme fetch, the DTO -> TenantThemeConfig mapper, the localStorage ETag cache, and the save-request body mapper that erevna-web and katalogos-web shared byte-for-byte. The HTTP transport (httpGet/httpPut) and the theme preset VALUES are app-supplied ports; this package never imports a product, realm, or hardcoded palette.",
   "keywords": [
     "tenant-theme",
